@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
      <Fcm></Fcm>
-     <button onClick={()=>window.location.reload()}></button>
+     <button onClick={()=>window.location.reload()}>sdfsadf</button>
     </div>
   );
 }
