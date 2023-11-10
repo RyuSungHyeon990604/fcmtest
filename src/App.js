@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
      <Fcm></Fcm>
+     <button onClick={()=>window.location.reload()}></button>
     </div>
   );
 }
